@@ -1,6 +1,6 @@
 {
     "name": "@igorskyflyer/tsconfig",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "🔧 Opinionated, reusable TSConfig base for modern TypeScript projects by igorskyflyer. 🧠",
     "files": [
         "tsconfig.base.json",
