@@ -110,7 +110,7 @@ Then extend the preferred config in `tsconfig.json`:
 ```
 
 >[!NOTE]
-> **Note:** `include`, `exclude`, `rootDir` and `outDir` are project-specific and must be defined locally.
+> `include`, `exclude`, `rootDir` and `outDir` are project-specific and must be defined locally.
 >
 
 <br>
